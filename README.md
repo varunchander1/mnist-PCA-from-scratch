@@ -2,8 +2,6 @@
 
 **Eigen decomposition, dimensionality reduction and reconstruction quality (PSNR) on handwritten digits, implemented by hand in NumPy and cross-checked against scikit-learn.**
 
-Part of the *AI & ML for Industry* programme, IIT Delhi (Module 1: Mathematical Foundations for AI/ML).
-
 ---
 
 ## Overview
